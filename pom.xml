@@ -4,12 +4,12 @@
 	<artifactId>fess-webapp-bangs</artifactId>
 	<packaging>jar</packaging>
 	<name>Bangs Webapp Plugin</name>
-	<version>15.9.0</version>
+	<version>15.9.1-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:git@github.com:codelibs/fess-webapp-bangs.git</connection>
 		<developerConnection>scm:git:git@github.com:codelibs/fess-webapp-bangs.git</developerConnection>
 		<url>https://github.com/codelibs/fess-webapp-bangs</url>
-	  <tag>fess-webapp-bangs-15.9.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<parent>
 		<groupId>org.codelibs.fess</groupId>
